@@ -9,6 +9,18 @@ body {
   color: #46443f;
   padding: 1em;
 }
+
+@media only screen and (min-width: 768px) {
+  #body-container {
+    padding-left: 20vw;
+    padding-right: 20vw;
+  }
+}
+
+h1 {
+  text-align: center;
+}
+
 a {
   text-decoration: none;
   color: #374db1;
