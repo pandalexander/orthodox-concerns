@@ -58,6 +58,14 @@ blockquote p {
   font-weight: bold;
 }
 
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
