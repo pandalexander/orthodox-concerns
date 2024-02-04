@@ -23,6 +23,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: "./src/index.html",
+      favicon: "./src/church-icon.png",
       filename: "index.html",
       inject: "body",
     }),
