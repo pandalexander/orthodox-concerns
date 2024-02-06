@@ -45,8 +45,10 @@ a:hover {
   text-decoration: underline;
 }
 
-h2 {
+hr {
   margin-top: 2em;
+  margin-bottom: 2em;
+  border: solid 1px #a0c1a8;
 }
 
 ul {
